@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Laurenyoo
-- 👀 I’m interested in fintech oppurtunites in New York City
-- 🌱 I’m currently learning Computer Science at UC Irvine and how to make the best ice coffee
-- 💞️ I’m looking to collaborate on fintech inspired projects
-- 📫 How to reach me @laurenyoohoo
+- 👀 I’m interested in machine learning fraud detection in credit cards/payment services
+- 🌱 hobbies include coffee, tennis, golf, f1, valorant, and jelly cats.
+- 📫 How to reach me @laurenyoohoo on Twitter
 
 <!---
 Laurenyoo/Laurenyoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
