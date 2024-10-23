@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Laurenyoo
-- 👀 I’m interested in machine learning fraud detection in credit cards/payment services
+- 👀 I’m interested software engineering opportunities and generally better SWE practices
 - 🌱 hobbies include coffee, tennis, golf, f1, valorant, and jelly cats.
 - 📫 How to reach me @laurenyoohoo on Twitter
 
